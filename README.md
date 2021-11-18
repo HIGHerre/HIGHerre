@@ -1,3 +1,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=HIGHerre)](https://solved.ac/HIGHerre/)
 
-코딩 잘하고 싶다....
+
